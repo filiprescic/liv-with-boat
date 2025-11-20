@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains the **data tables (.csv)** used to generate Figures 1 and 3 presented in the above paper.  
+This repository contains the **data tables (.csv)** used to generate the figures presented in the above paper.  
 Each CSV file corresponds to a single collection of points from the manuscript and includes the processed numerical values used to produce the results.
 
 The goal of this repository is to enable transparency, reproducibility, and reuse of the data in further research.
